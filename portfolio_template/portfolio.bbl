@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{DUMMY:1}
+J.~Doe, {\em The Book without Title}.
+\newblock Dummy Publisher, 2100.
+
+\bibitem{DUMMY:2}
+J.~Doe, {\em The Book without Title}.
+\newblock Dummy Publisher, 2100.
+
+\bibitem{DUMMY:3}
+J.~Doe, ``The webpage without title.'' \url {http://google.com/}.
+\newblock zuletzt besucht: 01.01.2000.
+
+\end{thebibliography}
